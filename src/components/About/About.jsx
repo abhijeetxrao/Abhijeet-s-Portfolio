@@ -6,7 +6,7 @@ import image from "../../assets/personalphoto.jpg";
 function About() {
   return (
     <section
-      className="py-4 px-[7vw] md:px-[7vw] lg:md-[20vw] font-sans mt-16 md:mt-24 lg:mt-32"
+      className="py-4 px-[7vw] md:px-[7vw] lg:px-[19vw] font-sans mt-16 md:mt-24 lg:mt-32"
       id="about"
     >
       
@@ -41,7 +41,7 @@ function About() {
               </span>
             </h3>
 
-            <p className="text-base sm:text-lg md:text-lg text-gray-400 leading-relaxed mt-8">
+            <p className="text-base sm:text-lg md:text-lg text-gray-400 leading-relaxed mt-8 font-semibold">
               I am a full-stack developer with over 2 years of experience in
               building scalable web applications. Skilled in both front-end and
               back-end development, I specialize in the MERN stack and other
