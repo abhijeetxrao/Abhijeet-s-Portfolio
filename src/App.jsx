@@ -5,7 +5,7 @@ import './App.css'
 import Navbar from './components/Navbar/Navbar'
 import About from './components/About/About'
 import Skills from './components/Skills/Skills'
-import work from './components/Work/Work'
+import Project from './components/Project/Project'
 import Education from './components/Education/Education'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
@@ -22,6 +22,7 @@ function App() {
           <Navbar/>
           <About/>
           <Skills/>
+          <Project/>
          </div>
       </div>
     </div>

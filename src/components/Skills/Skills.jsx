@@ -39,7 +39,7 @@ function Skills() {
               <div className="grid grid-cols-2 lg:grid-cols-3 py-4 px-4 gap-3">
                 {category.skills.map((skill) => (
                   <div
-                    className="flex justify-center item-center px-2 py-2 my-auto gap-2 flex-row border-gray-800 border-2 bg-transparent text-white rounded-3xl text-center"
+                    className="flex justify-center item-center px-2 py-2 my-auto gap-2 flex-row border-gray-700 border-2 bg-transparent text-white rounded-3xl text-center"
                     key={skill.name}
                   >
                     <img
